@@ -49,9 +49,9 @@ Let's explore the possibilities of AI together! 🚀
 
 ## 📫 Let's Connect!
 <a href="mailto:YourEmail@gmail.com">![sutaranirudha604@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/anirudha-sutar/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="<https://twitter.com/AnirudhaSutar7>">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="<https://instagram.com/anirudh63>">![Instagram](https://img.shields.io/badge/Instagram-D14860?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anirudha-sutar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/AnirudhaSutar7">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://instagram.com/anirudh63">![Instagram](https://img.shields.io/badge/Instagram-D14860?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
 
