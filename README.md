@@ -14,7 +14,7 @@ Let's explore the possibilities of AI together! 🚀
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/anirudh6370?style=flat&logo=github">
 </a>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰hnology 𝗦𝘁𝗮𝗰𝗸
 
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
